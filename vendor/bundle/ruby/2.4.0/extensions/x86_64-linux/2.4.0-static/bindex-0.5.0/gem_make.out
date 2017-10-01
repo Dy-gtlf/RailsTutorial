@@ -1,0 +1,15 @@
+current directory: /home/daidai/RailsTutorial/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+/home/daidai/.rbenv/versions/2.4.2/bin/ruby -r ./siteconf20171001-16408-15gkwrc.rb extconf.rb
+creating Makefile
+
+current directory: /home/daidai/RailsTutorial/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /home/daidai/RailsTutorial/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.so
+
+current directory: /home/daidai/RailsTutorial/vendor/bundle/ruby/2.4.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20171001-16408-1g6iqy0/bindex
